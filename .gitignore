@@ -1,0 +1,4 @@
+data/
+experiment_results.json
+__pycache__/
+*.py[cod]
